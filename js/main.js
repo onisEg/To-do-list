@@ -16,6 +16,7 @@
 - make function delet with id 
 
 */
+console.log('hi')
 
 let tasksOfArray = []
 let inputTask = document.querySelector("[type='text']");
